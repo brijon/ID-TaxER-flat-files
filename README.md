@@ -2,7 +2,8 @@
 
 <b>Description</b>
 
-This repository provides a custom database for DADA2 allowing users to obtain pH classifications for all ASVs. 
+This repository provides a custom 16S database for DADA2 allowing users to obtain pH classifications for all ASVs. The pH classification is based upon hierarchical logistic regression (HOF) models,a series of hierarchical models ranked by their increasing complexity, used to examine taxa responses across ecological gradients.
+The  <b>ID_TaxER_PH_DADA2_Custom_DB.fasta</b> file
 
 
 
