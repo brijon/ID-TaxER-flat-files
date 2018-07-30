@@ -11,7 +11,7 @@ The pH classification associated with each representative sequence is based upon
 
 <b>Usage</b>
 
-Download  <b>ID_TaxER_PH_DADA2_Custom_DB.fasta</b>, and  use as  input for the DADA2 function <b>assignTaxonomy(),</b>.
+Download  <b>ID_TaxER_PH_DADA2_Custom_DB.fasta</b>, and  use as  input for the DADA2 function <b>assignTaxonomy()</b>.
 The assignment given to each ASV contains: Countryside survey hit ID, HOF model assigned, pH classification based on model optima, pH classification & model shape, and one or two model optima depending on model type.  
 
 <b> Additional Information </b>
