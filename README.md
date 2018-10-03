@@ -16,4 +16,4 @@ The assignment given to each ASV contains: Countryside survey hit ID, HOF model 
 
 <b> Additional Information </b>
 
-This DADA2 custom database is supplementary to the  <b> ID-TaxER (Identification of Taxa & Environmental responses) portal https://shiny-prod.nerc-lancaster.ac.uk:8443/brijon/Trait-matrix/ </b> a shiny interface, enabling user's to blast individual sequences against 16S Countryside Survey data to examine the sequences ecological responses and taxonomy.
+This DADA2 custom database is supplementary to the  <b> ID-TaxER (Identification of Taxa & Environmental responses) portal https://shiny-apps.ceh.ac.uk/ID-TaxER/ </b> a shiny interface, enabling user's to blast individual sequences against 16S Countryside Survey data to examine the sequences ecological responses and taxonomy.
