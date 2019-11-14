@@ -1,4 +1,4 @@
-# ID_TaxER-Custom-Database-for-DADA2 
+# ID_TaxER-flat-files
 
 <b>Description</b>
 
