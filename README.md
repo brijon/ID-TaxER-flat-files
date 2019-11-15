@@ -11,7 +11,7 @@ The database consists of 13781 OTU's from the 2007 Countryside Survey 16S datase
 
 This repository contains a number of flat files enabling batch querying of the ID-TaxER database; please see below for full descriptions of each file. 
 
-### HOF_model_features.csv
+### HOF_Model_Features.csv
 A CSV file containing the following for all 13781 OTU's: HOF model assigned, pH optima 1, ph optima 2, pH classification & model shape, pH classification, Abundance rank, Occupancy.
 
 
@@ -28,15 +28,15 @@ Run as follows in R:
 
 Refer to the DADA2 manual https://rdrr.io/bioc/dada2/man/assignTaxonomy.html for further parameter details.
 
-### repseqs.fasta
+### ID_TaxER_repseqs.fasta
 
 A unannotated fasta file of all 13781 OTU representative sequences.
 
-### taxonomy.csv
+### Taxonomy.csv
 
 A CSV file containing taxonomic annotation for all 13781 OTU's.
 
-### user_data_upload.csv
+### User_Data_Upload.csv
 
 A CSV template for submitting new “trait” information to existing ID-TaxER OTU’s. Please send submissions to rig@ceh.ac.uk.
 
