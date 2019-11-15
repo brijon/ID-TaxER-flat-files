@@ -4,7 +4,7 @@
 
 ### Summary
 
-This repository is supplementary to the  <b> ID-TaxER (Identification of Taxa & Environmental responses) </b> portal https://shiny-apps.ceh.ac.uk/ID-TaxER/  a shiny interface, enabling users to blast individual sequences against Countryside Survey 16S data to examine the sequences ecological responses and taxonomy.
+This repository is supplementary to the  <b> ID-TaxER (Identification of Taxa & Environmental responses) </b> portal https://shiny-apps.ceh.ac.uk/ID-TaxER/, enabling users to blast individual sequences against soil 16S sequences from the GB wide Countryside Survey to provide information on ecological responses and taxonomy.
 
 The database consists of 13781 OTU's from the 2007 Countryside Survey 16S dataset, consisting of >1000 samples and covering most soil types across Britain. All pH classifications of OTU’s are based upon hierarchical logistic regression (HOF) models, a series of hierarchical models ranked by their increasing complexity, used to examine taxon responses across ecological gradients.
 
@@ -38,5 +38,5 @@ A CSV file containing taxonomic annotation for all 13781 OTU's.
 
 ### User_Data_Upload.csv
 
-A CSV template for submitting new “trait” information to existing ID-TaxER OTU’s. Please send submissions to rig@ceh.ac.uk.
+A CSV template for submitting new “trait” information to existing ID-TaxER OTUs...
 
