@@ -4,7 +4,7 @@
 
 ### Summary
 
-This repository is supplementary to the  <b> ID-TaxER (Identification of Taxa & Environmental responses) portal https://shiny-apps.ceh.ac.uk/ID-TaxER/ </b> a shiny interface, enabling users to blast individual sequences against Countryside Survey 16S data to examine the sequences ecological responses and taxonomy.
+This repository is supplementary to the  <b> ID-TaxER (Identification of Taxa & Environmental responses) portal </b>https://shiny-apps.ceh.ac.uk/ID-TaxER/  a shiny interface, enabling users to blast individual sequences against Countryside Survey 16S data to examine the sequences ecological responses and taxonomy.
 
 The database consists of 13781 OTU's from the 2007 Countryside Survey 16S dataset, consisting of >1000 samples and covering most soil types across Britain. All pH classifications of OTU’s are based upon hierarchical logistic regression (HOF) models, a series of hierarchical models ranked by their increasing complexity, used to examine taxon responses across ecological gradients.
 
@@ -26,7 +26,7 @@ Run as follows in R:
 >assignTaxonomy(seqs,refFasta,taxLevels = c("Countryside survey hit ID", "HOF model assigned","pH optima 1","ph optima 2", "pH classification & model shape", "pH classification", "Abundance rank", "Occupancy"))
  
 
-Refer to https://rdrr.io/bioc/dada2/man/assignTaxonomy.html for further parameter details.
+Refer to the DADA2 manual https://rdrr.io/bioc/dada2/man/assignTaxonomy.html for further parameter details.
 
 ### repseqs.fasta
 
