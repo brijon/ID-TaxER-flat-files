@@ -19,9 +19,7 @@ A CSV file containing the following for all 13781 OTU's: HOF model assigned, pH 
 
 A custom 16S database for DADA2 allowing the user to obtain pH classifications for all ASV's generated. 
 
-#### Usage 
-
-Download  <b>ID_TaxER_PH_DADA2_Custom_DB.fasta</b>, and  use as  input for the DADA2 function <b>assignTaxonomy()</b>.
+This database has been made to use with the DADA2 function <b>assignTaxonomy()</b>.
 The assignment given to each ASV contains: Countryside survey hit ID, HOF model assigned,pH optima 1,ph optima 2, pH classification & model shape, pH classification, Abundance rank and Occupancy.  
 
 Run as follows in R:
@@ -38,7 +36,7 @@ A unannotated fasta file of all 13781 OTU representative sequences.
 
 A CSV file containing taxonomic annotation for all 13781 OTU's.
 
-###user_data_upload.csv
+### user_data_upload.csv
 
 A CSV template for submitting new “trait” information to existing ID-TaxER OTU’s. Please send submissions to rig@ceh.ac.uk.
 
