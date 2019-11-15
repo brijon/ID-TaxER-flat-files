@@ -19,7 +19,7 @@ A CSV file containing the following for all 13781 OTU's: HOF model assigned, pH 
 
 A custom 16S database for DADA2 allowing the user to obtain pH classifications for all ASV's generated. 
 
-This database has been made to use with the DADA2 function <b>assignTaxonomy()</b>.
+This database was created to be used with the DADA2 function <b>assignTaxonomy()</b>.
 The assignment given to each ASV contains: Countryside survey hit ID, HOF model assigned,pH optima 1,ph optima 2, pH classification & model shape, pH classification, Abundance rank and Occupancy.  
 
 Run as follows in R:
